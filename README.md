@@ -159,6 +159,25 @@ Two modes of using generated code:
 
 ---
 
+## Getting Started (Locally)
+
+```
+## Clone repo
+git clone https://github.com/abhirupr123/grab_flow.git
+
+## Start backend server
+cd server
+npm install
+node server.js
+
+## Run React frontend
+cd ../react-app
+npm install
+npm start
+```
+
+---
+
 ## 🙏 Acknowledgements
 
 Built during **GrabHack 2025** 🏁  
